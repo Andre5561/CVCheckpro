@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* global */
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  @apply bg-white text-slate-900 antialiased;
+}
+
+/* containers */
+.container {
+  @apply mx-auto max-w-6xl px-5;
+}
+
+/* buttons */
+.btn {
+  @apply inline-flex items-center justify-center rounded-xl px-5 py-2.5 font-semibold transition;
+}
+.btn-primary {
+  @apply bg-brand-600 text-white shadow-soft hover:bg-brand-700;
+}
+.btn-outline {
+  @apply border border-slate-300 hover:border-brand-500;
+}
+
+/* cards */
+.card {
+  @apply rounded-2xl border border-slate-200 bg-white p-6 shadow-sm;
+}
+
+/* section spacing */
+.section {
+  @apply py-16 md:py-20;
+}
+
+/* headings */
+.h1 {
+  @apply text-4xl md:text-5xl font-extrabold;
+}
+.h2 {
+  @apply text-3xl md:text-4xl font-bold;
+}
+.muted {
+  @apply text-slate-600;
+}
+
+button,
+a,
+input,
+textarea {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+button:focus,
+a:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+button,
+a,
+input,
+textarea {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+button:focus,
+a:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
