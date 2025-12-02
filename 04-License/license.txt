@@ -1,1 +1,60 @@
-Regular License: You may use this product for personal and commercial projects, but you may not redistribute or resell the files as-is.
+CVCheckPro — Commercial Use License
+Last updated: November 2025
+
+Thank you for purchasing CVCheckPro UI Kit & Template Package.
+This license grants you rights to use the files included in this package under the terms below.
+
+------------------------------------------------------------
+PERMITTED USES
+------------------------------------------------------------
+
+You ARE allowed to:
+
+1. Use this product for personal and commercial projects.
+2. Use the React template, HTML template, UI Kit, mockups, and images in:
+   - client projects
+   - websites
+   - web apps
+   - landing pages
+   - resumes / SaaS platforms
+3. Modify, customize, and adapt the template/UI Kit to fit your project.
+4. Use the components in unlimited END products that you or your client will use.
+
+------------------------------------------------------------
+NOT PERMITTED
+------------------------------------------------------------
+
+You are NOT allowed to:
+
+1. Resell, redistribute, or share the package files in any way.
+2. Include this product (or modified versions) in any competing digital marketplace
+   (e.g., selling it on UI8, Creative Market, ThemeForest, Etsy, Gumroad, etc.).
+3. Use the design or templates in products where the main value is the UI Kit or code itself.
+4. Use assets from the package to train AI models or datasets.
+5. Claim the original design as your own.
+
+------------------------------------------------------------
+EXTENDED LIMITATIONS
+------------------------------------------------------------
+
+You may NOT use this product in a way that allows end users to extract UI elements,
+Figma files, source code, or mockups directly.
+
+Example: You cannot build a “page builder” using this kit.
+
+------------------------------------------------------------
+OWNERSHIP
+------------------------------------------------------------
+
+All rights, copyright, and intellectual property remain with the author (Andres5561).
+You receive a right to use, not ownership of the product.
+
+------------------------------------------------------------
+SUPPORT
+------------------------------------------------------------
+
+If you have questions or need help with the product,
+you can contact the author directly through Creative Market messages.
+
+------------------------------------------------------------
+END OF LICENSE
